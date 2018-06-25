@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.1.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="rorystiff.co.uk" resolutions="1x,2x" timestamp="1529956117360">
+<manifest alg="2" build="2017.1.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="rorystiff.co.uk" resolutions="1x,2x" timestamp="1529956727865">
   <folder name="images">
     <file name="favicon.ico" crc="3994207835" ref="index"/>
   </folder>
@@ -26,5 +26,5 @@
     <file name="jquery.museresponsive.js" crc="4267800278" ref="index"/>
     <file name="require.js" crc="3861931657" ref="index"/>
   </folder>
-  <file name="index.html" crc="3779312836" seo="true" mt="1529956097745" redirect="true"/>
+  <file name="index.html" crc="57747317" seo="true" mt="1529956711435" redirect="true"/>
 </manifest>
