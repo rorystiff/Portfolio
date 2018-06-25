@@ -1,11 +1,11 @@
-<manifest alg="2" build="2017.1.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="rorystiff.co.uk" resolutions="1x,2x" timestamp="1529955750297">
+<manifest alg="2" build="2017.1.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="rorystiff.co.uk" resolutions="1x,2x" timestamp="1529955964484">
   <folder name="images">
     <file name="favicon.ico" crc="3994207835" ref="index"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="121211664"/>
-    <file name="index.css" crc="375455756" ref="index"/>
-    <file name="nomq_index.css" crc="484202916" ref="index"/>
+    <file name="index.css" crc="247748681" ref="index"/>
+    <file name="nomq_index.css" crc="4202567896" ref="index"/>
   </folder>
   <folder name="fonts">
     <file name="nb_akademie_std_italic.woff" crc="4180663551"/>
@@ -26,5 +26,5 @@
     <file name="jquery.museresponsive.js" crc="4267800278" ref="index"/>
     <file name="require.js" crc="3861931657" ref="index"/>
   </folder>
-  <file name="index.html" crc="41308040" seo="true" mt="1529955683646" redirect="true"/>
+  <file name="index.html" crc="3990093109" seo="true" mt="1529955955137" redirect="true"/>
 </manifest>
